@@ -4,8 +4,10 @@ The idea is to design a very complete display typeface family (from condensed th
 Its use is mainly suitable for titling, poster, logo but depending on the style the Sprat also works in a mid-sized body text. To date, Sprat is available in 3 styles (condensed, regular and extended) and 6 weights (thin, light, regular, medium, bold and black) with 230 glyphs, it covers the extended Latin language.
 
 
-Feel free to use it !! If i have a chance to see your work with my typeface i'ld be glad 
-don't hesitate to email me the work you've done with it
+Feel free to use it !! If i have a chance to see your work with my typeface i'ld be glad
+
+Don't hesitate to email me the work you've done with it
 
 to contact me : ethan.nakache@orange.fr
+
 Instagram @nkh.otf
