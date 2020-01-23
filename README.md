@@ -5,5 +5,7 @@ Its use is mainly suitable for titling, poster, logo but depending on the style 
 
 
 Feel free to use it !! If i have a chance to see your work with my typeface i'ld be glad 
+don't hesitate to email me the work you've done with it
 
 to contact me : ethan.nakache@orange.fr
+Instagram @nkh.otf
